@@ -67,5 +67,5 @@ h1{
     width: 75%;
 }
 .left, .right{
-    transition: width 3s ease-in-out;
+    transition: width 5s ease-in-out;
 }
